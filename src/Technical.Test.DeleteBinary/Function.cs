@@ -21,7 +21,7 @@ namespace Technical.Test.DeleteBinary
     {
         //Melhor solução usar AWS KSM para armazenar esses acessos.
         private const string ACCESS_KEY = "SUA-AWS-ACCESS-KEY";
-        private const string SECRET_KEY = "SUA-AWS-SECRETE-KEY";
+        private const string SECRET_KEY = "SUA-AWS-SECRET-KEY";
         private const string S3_BUCKET = "bucket-technical-test-seventh";
         private const string MONGO_URL = "SEU-MONGODB-URL";
         private const string MONGO_DATABASE = "technicaltest";
